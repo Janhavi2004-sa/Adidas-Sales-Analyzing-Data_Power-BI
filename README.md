@@ -1,5 +1,6 @@
 # Adidas-Sales-Analyzing-Data_Power-BI
-<img width="840" height="714" alt="Screenshot 2025-11-06 200205" src="https://github.com/user-attachments/assets/e32c45b2-8ea6-44e3-8953-2378468a1315" />
+<img width="827" height="710" alt="image" src="https://github.com/user-attachments/assets/a7eb46e1-76d5-4a1b-8da5-cbae338ed05d" />
+
 
 
 **Project Overview**
