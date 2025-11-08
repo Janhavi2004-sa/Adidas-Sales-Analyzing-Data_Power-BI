@@ -6,6 +6,7 @@ The goal of this project is to study and understand the sales performance of Adi
 
 
 
+
 **Dataset Description**
 
 1.	Retailer – Name of the store or outlet selling Adidas products.
@@ -19,6 +20,7 @@ The goal of this project is to study and understand the sales performance of Adi
 9.	Sales Method – Type of channel used (Online / In-Store).
     
     
+    
 
 **Business Objectives**
 
@@ -29,6 +31,7 @@ The goal of this project is to study and understand the sales performance of Adi
 •	Identify **top-performing regions, products, and retailers.**
 
 •	Find areas with **low performance** to improve business strategie.
+
 
 
 
@@ -48,6 +51,7 @@ The goal of this project is to study and understand the sales performance of Adi
 
 
 
+
 **Tools & Technologies**
 
 •	Microsoft Power BI for data visualization and report building.
@@ -62,6 +66,7 @@ The goal of this project is to study and understand the sales performance of Adi
 
 
 
+
 **Slicer Interaction**  
 
 Added interactive Slicers for Region and Invoice Date.
@@ -71,6 +76,7 @@ Added interactive Slicers for Region and Invoice Date.
 •	Invoice Date → Filters visuals by sales time period.
 
 All visuals update automatically when slicers are applied, allowing users to analyze sales, profit, and product performance interactively.
+
 
 
 
