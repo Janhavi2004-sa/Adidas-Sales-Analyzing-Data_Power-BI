@@ -5,8 +5,6 @@
 The goal of this project is to study and understand the sales performance of Adidas products. Using Power BI, this project shows how sales change across different regions, products, and time periods. It helps to find which areas or products are doing well and where improvements are needed.
 
 
-
-
 **Dataset Description**
 
 1.	Retailer – Name of the store or outlet selling Adidas products.
@@ -19,8 +17,6 @@ The goal of this project is to study and understand the sales performance of Adi
 8.	Operating Profit / Margin – Profitability of the transaction.
 9.	Sales Method – Type of channel used (Online / In-Store).
     
-    
-    
 
 **Business Objectives**
 
@@ -31,8 +27,6 @@ The goal of this project is to study and understand the sales performance of Adi
 •	Identify **top-performing regions, products, and retailers.**
 
 •	Find areas with **low performance** to improve business strategie.
-
-
 
 
 **Visuals**
@@ -50,8 +44,6 @@ The goal of this project is to study and understand the sales performance of Adi
 •	Sales by State (Map Chart)  : visualizes total sales distribution across U.S. states.
 
 
-
-
 **Tools & Technologies**
 
 •	Microsoft Power BI for data visualization and report building.
@@ -65,8 +57,6 @@ The goal of this project is to study and understand the sales performance of Adi
 •	Slicers for interactivity and dynamic filtering.
 
 
-
-
 **Slicer Interaction**  
 
 Added interactive Slicers for Region and Invoice Date.
@@ -76,8 +66,6 @@ Added interactive Slicers for Region and Invoice Date.
 •	Invoice Date → Filters visuals by sales time period.
 
 All visuals update automatically when slicers are applied, allowing users to analyze sales, profit, and product performance interactively.
-
-
 
 
 **Future Enhancements**
